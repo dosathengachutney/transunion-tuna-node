@@ -6,6 +6,7 @@ export interface Indicative {
 }
 
 export interface IndicativeResponse {
+	dateOfBirth?: string
 	socialSecurityNumber?: string
 }
 
